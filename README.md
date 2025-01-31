@@ -1,4 +1,4 @@
-- 👋 Hi, I'm [Nicholas Huang](NIC397)
+- 👋 Hi, I'm [Nicholas Huang](https://github.com/NIC397)
 - 👀 I'm interested in AI / Machine Learning / Large Language Models
 - 🌱 I'm currently pusruing my master's degree in Information Systmes at Cornell
 - 💞️ I'm looking to collaborate on innovative AI projects and research
