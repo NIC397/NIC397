@@ -1,6 +1,6 @@
 - 👋 Hi, I'm [Nicholas Huang](https://github.com/NIC397)
 - 👀 I'm interested in AI / Machine Learning / Large Language Models
-- 🌱 I'm currently pusruing my master's degree in Information Systmes at Cornell
+- 🌱 I graduated with a master's degree in Information Systmes at Cornell
 - 💞️ I'm looking to collaborate on innovative AI projects and research
 - 💻 Here's my [Personal Website](https://nic397.github.io/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicholas-zhijun-huang/)
